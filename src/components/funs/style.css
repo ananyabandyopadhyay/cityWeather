@@ -1,0 +1,20 @@
+.input {
+  height: 1.5rem;
+  width: 65rem;
+  border-radius: 2rem;
+}
+.button {
+  width: 12rem;
+  height: 2rem;
+  background-color: #a8a5e0;
+  border-radius: 2rem;
+}
+.button:hover {
+  background-color: #807dac;
+  color: white;
+}
+.memeImage {
+  padding: 1rem;
+  width: 25rem;
+  height: 25rem;
+}
